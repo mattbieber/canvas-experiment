@@ -1,0 +1,25 @@
+:root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #222;
+}
+#canvas1 {
+  background-color: black;
+  height: 50%;
+  width: 75%;
+  border-radius: 20px;
+  border: 10px solid #373737;
+  
+} 
+
+
+
